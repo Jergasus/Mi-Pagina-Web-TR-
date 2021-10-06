@@ -1,0 +1,50 @@
+body {
+	background:#000000; 
+	color: #FFFFFF;
+	font-size: 20px; 
+}
+
+* /*Selector universal*/ {
+	margin: 1; /* Propiedad que permite agregar márgen */
+	padding: 1; /*Margen interno que tienen los elementos */
+}
+
+h1 {
+	color: #49FF00;
+
+}
+
+h2 {
+	color: #00FFCD;
+}
+
+a {
+	color: #E8FF00;
+}
+
+.yellow {
+	color: #FF0000;
+}
+
+.green {
+	color: #FFFFFF;
+}
+
+.blue {
+	font-size: 35px;
+}
+
+.red {
+	color: rgba(255, 255, 255, 0.5);
+}
+
+.purple {
+	background: #FFFFFF;
+	color: #000000;
+	width: 5%;
+}
+
+footer p {
+	font-size: 30px;
+}
+
